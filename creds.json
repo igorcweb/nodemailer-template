@@ -1,3 +1,4 @@
+//Enter real email and password in order for the app to work
 {
   "user": "example@example.com",
   "password": "password"
